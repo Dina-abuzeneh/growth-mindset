@@ -1,7 +1,7 @@
 # Growth-Mindset
 ## Summarize of growth mindset
 
-![Image](https://example.com/my-awesome-pic.png)
+!(https://static.dw.com/image/18676370_303.png)
 
 ### What is the Mindset?
 - what think about my self
