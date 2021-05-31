@@ -1,12 +1,12 @@
-# growth-mindset
-## summarize of growth mindset
+# Growth-Mindset
+## Summarize of growth mindset
 
 
-what is the Mindset?
+What is the Mindset?
 - what think about my self
 - self preception or self theory
 
-how to keep yourself in a growth mindset?
+How to keep yourself in a growth mindset?
 
 1- Challenges
 
