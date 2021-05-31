@@ -1,8 +1,6 @@
 # Growth-Mindset
 ## Summarize of growth mindset
 
-
-
 ### What is the Mindset?
 - what think about my self
 - self preception or self theory
