@@ -1,17 +1,20 @@
-# Growth-Mindset
-## Summarize of growth mindset
+hi 
+My name is a Dina abuzenah i'm communication engineer i'm graduated from Al Blqaa applied University
 
-![mind](https://static.dw.com/image/18676370_101.png)
 
-### What is the Mindset?
-- [x] what think about my self
-- [x] self preception or self theory
-- [x] The growth mindset can open pathways to more creativity and possibility
 
-#### How to keep yourself in a growth mindset?
+# Table of contents
+| 1       | growth-mindset-4     |(https://dina-abuzeneh.github.io/growth-mindset/)    |
+| :------------- | :----------: | -----------: |
+|  2 | Markdown  | (https://dina-abuzeneh.github.io/Markdown/)    |
+| 3  | Git-intro | (https://dina-abuzeneh.github.io/Git-intro/)| 
 
-1- **Challenges**
 
-2- **Obstacles**
 
-3- **Effort**
+# Table of contents
+1. [growth-mindset-4](https://dina-abuzeneh.github.io/growth-mindset/)
+2. [Markdown](https://dina-abuzeneh.github.io/Markdown/)
+3. [Git-intro](https://dina-abuzeneh.github.io/Git-intro/)
+
+
+
